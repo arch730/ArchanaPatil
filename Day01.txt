@@ -1,4 +1,4 @@
-Maveeeeeeeeee
+Archana Patil Updated Maven file 
 ~~~~~~~~~~~~~~~
 Netflix	-----> Java (netflix.java)		----> It contains source code of the application
 
@@ -133,6 +133,7 @@ Understanding the key elements of pom.xml file
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SNAPSHOT ----> developers are still developing the code
 RELEASE	----> developers has developed the code
+
 
 
 
